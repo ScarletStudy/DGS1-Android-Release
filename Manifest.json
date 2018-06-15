@@ -1,0 +1,100 @@
+{
+	"ManifestVersion": 0,
+	"Date": "2018.06.07",
+	"IrisMobile": {
+		"CurrentVersion": 4,
+		"URL": "",
+		"Hash": "",
+        "Changelog": ""
+	},
+	"TranslationNotes": {
+		"General": [
+			"Many characters appearing in this game are named after characters in the Sherlock Holmes universe. This is one of the reasons we decided not to change any names in the localization.",
+			"Souseki Natsume is a real-live Japanese author who actually did spent two years in London, England. He is the first real person to appear in any Ace Attorney game, though the game obviously takes some artistic license with his biography and character.",
+			"Natsume’s cat, Wagahai, is a reference to one of his most notable works Wagahai wa Neko de Aru (I Am a Cat), a satiracal novel about the influx of western culture into Meiji era Japan."
+		],
+		"Episode 1": [
+			"Naruhodou is heavily implied to be Phoenix's ancestor (very similar name and looks.)",
+			"Auchi is heavily implied to be Payne's ancestor (same last name and looks.)",
+			"Auchi's fan has the Kanji 罪 on it. It means sin; crime; punishment; ...",
+			"Imperial Yuumei University is the same University Phoenix went to, Ivy University.",
+			"This Episode and the next one will use the term \"Postmortem\" to reflect the difference in the terms the Japanese version uses in Episode 1 and 2 and the rest of the game. Episode 1 and 2 use 遺体検分記録 which is roughly translated as \"corpse examination record\" and the later episodes use 遺体解剖記録 (\"corpse dissection record\",) which still sounds old fashioned, but is pretty close to the modern word 死体解剖 (\"corpse autopsy\".)",
+			"Koban are golden, oval-shaped coins used as currency starting from the 16th century until the Meiji Restoration in the mid-19th century.",
+			"When Naruhodou mentions that the word \"Kitchen\" is hard to write, it is because the Japanese equivalent of the word is 厨房, which contains complicated characters."
+		],
+		"Episode 2": [
+			"The Russian characters in this episode speak with various degrees of a Russian accent in our translation. We consulted native Russian speakers in an effort to make it realistic.",
+			"In the original Japanese, the characters of different nationalities are all stated to be using English as a common language. Distinctions are made between Japanese, English, and Russian.",
+			"In particular, the アケルナ (Do Not Open) sign is strongly intended to be foreign writing to the non-Japanese cast, and context makes its meaning clear. As such, it was left untranslated.",
+			"The ship's name, Alclair, is just one of several possible romanizations of アラクレ. It's certainly a reference to 荒くれ, which means rowdy; wild; violent.",
+			"Obans are old coins, similar to kobans; they are worth ten kobans.",
+			"Harakiri (腹切) is the reverse reading of seppuku (切腹), a form of Japanese ritual suicide by disembowelment.",
+			"The cat's name was originally \"Kuroppoi\", which means \"blackish\" - however, as its owner does not know Japanese, this name was localized. It is, to date, the only character with a localized name in our translation.",
+			"Asougi's blade, Karma, shares its original name with the Von Karmas (狩魔)."
+		],
+		"Episode 3": [
+			"When you examine the omnibus, you can see the words \"Phoenix Wright Omnibus.\" This nod to the official English localization of the main series already existed in the original Japanese version of DGS and was not added or edited by us.",
+			"The name Ladyfirst is often misinterpreted as \"Redifast.\" Looking at his friend Fairplay's name, it should be pretty obvious that their names are both meant to be gentlemanly English names; thus, Ladies First, Ladyfirst. We were able to confirm these romanizations in the game assets.",
+			"Lord Chief Justice is an actual title.",
+			"Cosney Megundal's name is a pun in the Japanese Kansai dialect, kozeni megundeyaru (小銭恵んでやる) - \"I'll spare you some change\".",
+			"Beppo and Gina are references to Sherlock Holmes stories. In the stories, Beppo is an Italian immigrant who is being hunted by the Mafia. G. Lestrade is an investigator from Scotland Yard who occasionally works with Holmes.",
+			"The name embroidered on Asougi's armband is intentionally left in its original Japanese because he is Japanese and it wouldn't make sense for it to be in English."
+		]
+	},
+	"Games": {
+		"DGS1": {
+			"Package": "jp.co.capcom.daigyakusai",
+			"PatchVersion": "2.2.0",
+			"LatestPatchableAPK": 14,
+			"LatestVersionOBB": 11,
+			"RequiredSize": 1000,
+			"Patches": {
+				"APK": {
+					"Version": 0,
+					"URL": "https://download.scarletstudy.gq/beta/android/apk_patch",
+					"Hash": "604D1DA17855B7C33C940113978556986B65AE944D2170AFC4A807F6526BBE65",
+                    "Iter": 1502982310
+				},
+				"Main": {
+					"Version": 0,
+					"URL": "https://download.scarletstudy.gq/beta/android/patch",
+					"Hash": "BE36790BE2E618E866D5EB4A78D2A3659773EE183599F318ABA8FDB7F4F283F3",
+                    "Iter": 1502982311
+				},
+				"Video": {
+					"Version": 0,
+					"URL": "https://download.scarletstudy.gq/beta/android/vid_patch",
+					"Hash": "E116635DD9B20DF66B18F5385BE9CC9C03943B60773B4C43454FA0D611CAE259",
+                    "Iter": 1502982312
+				}
+			},
+			"Hashes": {
+				"Vanilla": {
+					"13": {
+						"APK": "8583B32850D364E9762B6E6BD2659040CD4825EAA27337E00EB01FCF6EDEAA51",
+						"OBB": {
+							"main": "7FF34866733D717CF18E9FAF6B75FDC6233D6C5F2FA18C89EFC9D30ACE5246ED",
+							"patch": "262831D6314135BF3D1C3C8FCB69C67117884DB7550FA9C201ABDC4A8097C227"
+						}
+					},
+					"14": {
+						"APK": "E7057FC7CE75F99FAE97FA84002705EA1614EC7956290074A02A2E24C7CA8B8A",
+						"OBB": {
+							"main": "7FF34866733D717CF18E9FAF6B75FDC6233D6C5F2FA18C89EFC9D30ACE5246ED",
+							"patch": "262831D6314135BF3D1C3C8FCB69C67117884DB7550FA9C201ABDC4A8097C227"
+						}
+					}
+				},
+				"Patched": {
+					"2.2.0": {
+						"APK": "3D3BC5EB676DBD8DAF6FD5F60835D0B39CFAA29B17603E07738F257854B9AFF7",
+						"OBB": {
+							"main": "00EFAF50477A3C9B464779BFBDEF1227C2B0E84F3C79E3BFDEF3837540E017C4",
+							"patch": "08F9B4D4235EC72A4B8594C62046EE7CAD9DEB03623938D7EE6EF4441A207997"
+						}
+					}
+				}
+			}
+		}
+	}
+}
