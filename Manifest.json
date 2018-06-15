@@ -55,13 +55,13 @@
 				"APK": {
 					"Version": 0,
 					"URL": "https://download.scarletstudy.gq/beta/android/apk_patch",
-					"Hash": "604D1DA17855B7C33C940113978556986B65AE944D2170AFC4A807F6526BBE65",
+					"Hash": "65951CD9F09FEAF4B23E98B8601543028AF8CECBFFC0D29B0C012B33EA87CD9E",
                     "Iter": 1502982310
 				},
 				"Main": {
 					"Version": 0,
 					"URL": "https://download.scarletstudy.gq/beta/android/patch",
-					"Hash": "BE36790BE2E618E866D5EB4A78D2A3659773EE183599F318ABA8FDB7F4F283F3",
+					"Hash": "D7B1C4195BC68A785D1B1F68DC0833982B17EECF2B0EBCF0720DF51816DA84F9",
                     "Iter": 1502982311
 				},
 				"Video": {
