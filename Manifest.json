@@ -56,19 +56,22 @@
 					"Version": 0,
 					"URL": "https://download.scarletstudy.gq/beta/android/apk_patch",
 					"Hash": "65951CD9F09FEAF4B23E98B8601543028AF8CECBFFC0D29B0C012B33EA87CD9E",
-                    "Iter": 1502982310
+                    "Iter": 1502982310,
+                    "Size": 6
 				},
 				"Main": {
 					"Version": 0,
 					"URL": "https://download.scarletstudy.gq/beta/android/patch",
 					"Hash": "D7B1C4195BC68A785D1B1F68DC0833982B17EECF2B0EBCF0720DF51816DA84F9",
-                    "Iter": 1502982311
+                    "Iter": 1502982311,
+                    "Size": 20
 				},
 				"Video": {
 					"Version": 0,
 					"URL": "https://download.scarletstudy.gq/beta/android/vid_patch",
 					"Hash": "E116635DD9B20DF66B18F5385BE9CC9C03943B60773B4C43454FA0D611CAE259",
-                    "Iter": 1502982312
+                    "Iter": 1502982312,
+                    "Size": 60
 				}
 			},
 			"Hashes": {
