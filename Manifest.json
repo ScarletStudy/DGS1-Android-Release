@@ -60,7 +60,7 @@
                     "Size": 6
 				},
 				"Main": {
-					"Version": 0,
+					"Version": 1,
 					"URL": "https://download.scarletstudy.gq/beta/android/patch",
 					"Hash": "D7B1C4195BC68A785D1B1F68DC0833982B17EECF2B0EBCF0720DF51816DA84F9",
                     "Iter": 1502982311,
