@@ -53,7 +53,7 @@
 			"RequiredSize": 1000,
 			"Patches": {
 				"APK": {
-					"Version": 1,
+					"Version": 2,
 					"URL": "https://download.scarletstudy.gq/beta/android/apk_patch",
 					"Hash": "65951CD9F09FEAF4B23E98B8601543028AF8CECBFFC0D29B0C012B33EA87CD9E",
                     "Iter": 1502982310,
