@@ -2,9 +2,9 @@
 	"ManifestVersion": 0,
 	"Date": "2018.06.07",
 	"IrisMobile": {
-		"CurrentVersion": 5,
+		"CurrentVersion": 6,
 		"URL": "https://download.scarletstudy.gq/beta/android/irismobile.apk",
-		"Hash": "F427854F533721F732D9BD2C8D5A4CE4D93670DF2E2A6F90B5E4AC3FC8A5F42A",
+		"Hash": "9069BF8FC9C11BB85B42F09C32669BF2FFBBF219BD1AAEACA10E78B283FFB486",
         "Changelog": ""
 	},
 	"TranslationNotes": {
