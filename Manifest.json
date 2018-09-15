@@ -1,6 +1,6 @@
 {
 	"ManifestVersion": 0,
-	"Date": "2018.06.07",
+	"Date": "2018.09.15",
 	"IrisMobile": {
 		"CurrentVersion": 6,
 		"URL": "https://download.scarletstudy.gq/beta/android/irismobile.apk",
@@ -47,7 +47,7 @@
 	"Games": {
 		"DGS1": {
 			"Package": "jp.co.capcom.daigyakusai",
-			"PatchVersion": "2.2.0",
+			"PatchVersion": "2.3.0",
 			"LatestPatchableAPK": 14,
 			"LatestVersionOBB": 11,
 			"RequiredSize": 1000,
@@ -55,22 +55,22 @@
 				"APK": {
 					"Version": 0,
 					"URL": "https://download.scarletstudy.gq/beta/android/apk_patch",
-					"Hash": "65951CD9F09FEAF4B23E98B8601543028AF8CECBFFC0D29B0C012B33EA87CD9E",
-                    "Iter": 1502982310,
+					"Hash": "7C8142DD526A2613D7F24C3E8B5E4C13E1D66C59A8FCAA14C406FABEF3F91BF2",
+                    "Iter": 3875217881,
                     "Size": 6
 				},
 				"Main": {
 					"Version": 0,
 					"URL": "https://download.scarletstudy.gq/beta/android/patch",
-					"Hash": "B8B30A20A0765D87644BF086B4998DAAB1E1637CAEAE7511C746B2D02A853B29",
-                    "Iter": 1502982311,
-                    "Size": 20
+					"Hash": "0E6FD3292D59A7BEC44215FC3471FF201574E218C7EC8F105EA197E78195DD51",
+                    "Iter": 3875217882,
+                    "Size": 40
 				},
 				"Video": {
 					"Version": 0,
 					"URL": "https://download.scarletstudy.gq/beta/android/vid_patch",
-					"Hash": "E116635DD9B20DF66B18F5385BE9CC9C03943B60773B4C43454FA0D611CAE259",
-                    "Iter": 1502982312,
+					"Hash": "799E61A8C418AC846ED3E232E1EC5C3794CAC5F4CB3BCAEDA58FE5CA059D9917",
+                    "Iter": 3875217883,
                     "Size": 60
 				}
 			},
@@ -92,11 +92,11 @@
 					}
 				},
 				"Patched": {
-					"2.2.0": {
-						"APK": "3D3BC5EB676DBD8DAF6FD5F60835D0B39CFAA29B17603E07738F257854B9AFF7",
+					"2.3.0": {
+						"APK": "6535F845852180550CAC334D2D938439C96A429704B3C0D719269B5079051DBB",
 						"OBB": {
-							"main": "00EFAF50477A3C9B464779BFBDEF1227C2B0E84F3C79E3BFDEF3837540E017C4",
-							"patch": "08F9B4D4235EC72A4B8594C62046EE7CAD9DEB03623938D7EE6EF4441A207997"
+							"main": "F3CE61202637337D4C3578448507093330EAE6040018C52F083C8609E48E5F4B",
+							"patch": "4A2FBB5742D9BC408550B77339D1FA299057C4D2C4E8AD40F1D55201D3C63EAD"
 						}
 					}
 				}
