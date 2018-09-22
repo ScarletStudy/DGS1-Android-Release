@@ -54,23 +54,23 @@
 			"Patches": {
 				"APK": {
 					"Version": 0,
-					"URL": "https://download.scarletstudy.gq/beta/android/apk_patch",
-					"Hash": "7C8142DD526A2613D7F24C3E8B5E4C13E1D66C59A8FCAA14C406FABEF3F91BF2",
-                    "Iter": 3875217881,
+					"URL": "https://raw.githubusercontent.com/ScarletStudy/DGS1-Android-Release/master/apk_patch",
+					"Hash": "3EEDEA7CA15A70A0A673A29DA15800DD1E1B3EE8F01894D110946E74155A2027",
+                    "Iter": 3416827465,
                     "Size": 6
 				},
 				"Main": {
 					"Version": 0,
-					"URL": "https://download.scarletstudy.gq/beta/android/patch",
-					"Hash": "0E6FD3292D59A7BEC44215FC3471FF201574E218C7EC8F105EA197E78195DD51",
-                    "Iter": 3875217882,
+					"URL": "https://raw.githubusercontent.com/ScarletStudy/DGS1-Android-Release/master/patch",
+					"Hash": "0E769A9F0CADAA971FAF91E5F92A16F79D17FA7CB9BB2B09994C3A460D4DB195",
+                    "Iter": 3416827466,
                     "Size": 40
 				},
 				"Video": {
 					"Version": 0,
-					"URL": "https://download.scarletstudy.gq/beta/android/vid_patch",
+					"URL": "https://raw.githubusercontent.com/ScarletStudy/DGS1-Android-Release/master/vid_patch",
 					"Hash": "799E61A8C418AC846ED3E232E1EC5C3794CAC5F4CB3BCAEDA58FE5CA059D9917",
-                    "Iter": 3875217883,
+                    "Iter": 3416827467,
                     "Size": 60
 				}
 			},
@@ -93,9 +93,9 @@
 				},
 				"Patched": {
 					"2.3.0": {
-						"APK": "6535F845852180550CAC334D2D938439C96A429704B3C0D719269B5079051DBB",
+						"APK": "D423AC40774DB8B89F5563805E13A70A01D64B33005DE22065FC577934259355",
 						"OBB": {
-							"main": "F3CE61202637337D4C3578448507093330EAE6040018C52F083C8609E48E5F4B",
+							"main": "F8F2838710443BF6A903E98B56ED22ADF25308820B5D1570CDC0F9847CF326A2",
 							"patch": "4A2FBB5742D9BC408550B77339D1FA299057C4D2C4E8AD40F1D55201D3C63EAD"
 						}
 					}
