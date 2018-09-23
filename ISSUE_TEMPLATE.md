@@ -1,6 +1,6 @@
 ### About your device
 
-**Device Manufacturer / Model?**
+**Device Manufacturer / Model or Emulator / Version??**
 
 **Android Version?**
 
