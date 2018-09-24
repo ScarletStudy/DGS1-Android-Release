@@ -3,8 +3,8 @@
 	"Date": "2018.09.15",
 	"IrisMobile": {
 		"CurrentVersion": 6,
-		"URL": "https://download.scarletstudy.gq/beta/android/irismobile.apk",
-		"Hash": "9069BF8FC9C11BB85B42F09C32669BF2FFBBF219BD1AAEACA10E78B283FFB486",
+		"URL": "https://github.com/ScarletStudy/DGS1-Android-Release/releases/download/1.0/IrisMobile.apk",
+		"Hash": "8C8867E61DB478DE5E24FB5DF3349EBD484D56AF8E6099089A6DC7A088313B53",
         "Changelog": ""
 	},
 	"TranslationNotes": {
@@ -49,30 +49,30 @@
 	"Games": {
 		"DGS1": {
 			"Package": "jp.co.capcom.daigyakusai",
-			"PatchVersion": "2.3.0",
+			"PatchVersion": "2.3.1",
 			"LatestPatchableAPK": 14,
 			"LatestVersionOBB": 11,
 			"RequiredSize": 1000,
 			"Patches": {
 				"APK": {
-					"Version": 0,
+					"Version": 1,
 					"URL": "https://raw.githubusercontent.com/ScarletStudy/DGS1-Android-Release/master/apk_patch",
-					"Hash": "3EEDEA7CA15A70A0A673A29DA15800DD1E1B3EE8F01894D110946E74155A2027",
-                    "Iter": 3416827465,
+					"Hash": "43B64135FF272A7320024ADD5A176E5316A62E9C6A90FA14ECFCC553EE8219A0",
+                    "Iter": 485892183,
                     "Size": 6
 				},
 				"Main": {
-					"Version": 0,
+					"Version": 1,
 					"URL": "https://raw.githubusercontent.com/ScarletStudy/DGS1-Android-Release/master/patch",
 					"Hash": "0E769A9F0CADAA971FAF91E5F92A16F79D17FA7CB9BB2B09994C3A460D4DB195",
-                    "Iter": 3416827466,
+                    "Iter": 485892184,
                     "Size": 40
 				},
 				"Video": {
 					"Version": 0,
 					"URL": "https://raw.githubusercontent.com/ScarletStudy/DGS1-Android-Release/master/vid_patch",
 					"Hash": "799E61A8C418AC846ED3E232E1EC5C3794CAC5F4CB3BCAEDA58FE5CA059D9917",
-                    "Iter": 3416827467,
+                    "Iter": 485892185,
                     "Size": 60
 				}
 			},
@@ -94,10 +94,10 @@
 					}
 				},
 				"Patched": {
-					"2.3.0": {
-						"APK": "D423AC40774DB8B89F5563805E13A70A01D64B33005DE22065FC577934259355",
+					"2.3.1": {
+						"APK": "37A7AE0675327CFE881D2CCF1DA38E68006DCEED7D3EFC22E11A87A8477B80D6",
 						"OBB": {
-							"main": "F8F2838710443BF6A903E98B56ED22ADF25308820B5D1570CDC0F9847CF326A2",
+							"main": "27790F2B99C5EE8706C1695A1F814AD12661EE1642A13CBDFEDE110E3EA06C2D",
 							"patch": "4A2FBB5742D9BC408550B77339D1FA299057C4D2C4E8AD40F1D55201D3C63EAD"
 						}
 					}
