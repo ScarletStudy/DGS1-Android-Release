@@ -55,24 +55,24 @@
 			"RequiredSize": 1000,
 			"Patches": {
 				"APK": {
-					"Version": 1,
+					"Version": 2,
 					"URL": "https://raw.githubusercontent.com/ScarletStudy/DGS1-Android-Release/master/apk_patch",
-					"Hash": "43B64135FF272A7320024ADD5A176E5316A62E9C6A90FA14ECFCC553EE8219A0",
-                    "Iter": 485892183,
+					"Hash": "EDC1F153C382109A9CD81CCB5663AC3C3206C65739292026054895801FC68791",
+                    "Iter": 720607735,
                     "Size": 6
 				},
 				"Main": {
-					"Version": 1,
+					"Version": 2,
 					"URL": "https://raw.githubusercontent.com/ScarletStudy/DGS1-Android-Release/master/patch",
-					"Hash": "0E769A9F0CADAA971FAF91E5F92A16F79D17FA7CB9BB2B09994C3A460D4DB195",
-                    "Iter": 485892184,
+					"Hash": "0D14444F2D9E229B9908C86AB831159F04457C3E0F8FD665EF0FCD86C1BA251C",
+                    "Iter": 720607736,
                     "Size": 40
 				},
 				"Video": {
 					"Version": 0,
 					"URL": "https://raw.githubusercontent.com/ScarletStudy/DGS1-Android-Release/master/vid_patch",
 					"Hash": "799E61A8C418AC846ED3E232E1EC5C3794CAC5F4CB3BCAEDA58FE5CA059D9917",
-                    "Iter": 485892185,
+                    "Iter": 720607737,
                     "Size": 60
 				}
 			},
@@ -95,9 +95,9 @@
 				},
 				"Patched": {
 					"2.3.1": {
-						"APK": "37A7AE0675327CFE881D2CCF1DA38E68006DCEED7D3EFC22E11A87A8477B80D6",
+						"APK": "9F66F0DBFA4A28300C4ACF9FACA5A3E0357FC424C0667A9C94EBD0A93F8BB16C",
 						"OBB": {
-							"main": "27790F2B99C5EE8706C1695A1F814AD12661EE1642A13CBDFEDE110E3EA06C2D",
+							"main": "152465717A03DE012884E0B4AD18DFFD6CAD4D00232C67DBCD4F685759AEDAAC",
 							"patch": "4A2FBB5742D9BC408550B77339D1FA299057C4D2C4E8AD40F1D55201D3C63EAD"
 						}
 					}
