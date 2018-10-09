@@ -23,6 +23,12 @@ For the instruction of how to apply the Android patch and general information ab
 # Changelog
 A list of changes to the patched DGS1 and **not** IrisMobile.
 
+## 2.3.1.1 - 2018-10-09
+
+**Translated up to and including Episode 4, preview of Episode 5 is included.**
+
+* Fixed some textures being zoomed-in by default.
+
 ## 2.3.1 - 2018-10-08
 
 **Translated up to and including Episode 4, preview of Episode 5 is included.**
