@@ -49,30 +49,30 @@
 	"Games": {
 		"DGS1": {
 			"Package": "jp.co.capcom.daigyakusai",
-			"PatchVersion": "2.3.1",
+			"PatchVersion": "2.3.1.1",
 			"LatestPatchableAPK": 14,
 			"LatestVersionOBB": 11,
 			"RequiredSize": 1000,
 			"Patches": {
 				"APK": {
-					"Version": 2,
+					"Version": 3,
 					"URL": "https://raw.githubusercontent.com/ScarletStudy/DGS1-Android-Release/master/apk_patch",
-					"Hash": "EDC1F153C382109A9CD81CCB5663AC3C3206C65739292026054895801FC68791",
-                    "Iter": 720607735,
+					"Hash": "B15AA2E445DFA48A5133B3716C2AB0AD25F5FAEE5465167A49C7BA5930542B7C",
+                    "Iter": 2107567964,
                     "Size": 6
 				},
 				"Main": {
-					"Version": 2,
+					"Version": 3,
 					"URL": "https://raw.githubusercontent.com/ScarletStudy/DGS1-Android-Release/master/patch",
 					"Hash": "0D14444F2D9E229B9908C86AB831159F04457C3E0F8FD665EF0FCD86C1BA251C",
-                    "Iter": 720607736,
+                    "Iter": 2107567965,
                     "Size": 40
 				},
 				"Video": {
 					"Version": 0,
 					"URL": "https://raw.githubusercontent.com/ScarletStudy/DGS1-Android-Release/master/vid_patch",
 					"Hash": "799E61A8C418AC846ED3E232E1EC5C3794CAC5F4CB3BCAEDA58FE5CA059D9917",
-                    "Iter": 720607737,
+                    "Iter": 2107567966,
                     "Size": 60
 				}
 			},
@@ -94,10 +94,10 @@
 					}
 				},
 				"Patched": {
-					"2.3.1": {
-						"APK": "9F66F0DBFA4A28300C4ACF9FACA5A3E0357FC424C0667A9C94EBD0A93F8BB16C",
+					"2.3.1.1": {
+						"APK": "EEAEFB13275398959250D3B0986F72FEAE56F5C7F817F8BB3053A5700621404A",
 						"OBB": {
-							"main": "152465717A03DE012884E0B4AD18DFFD6CAD4D00232C67DBCD4F685759AEDAAC",
+							"main": "1EFDFC0BE34EE036D2E6EE2CF8B0499D9E1E55FAC376B4987C178A30FE76E40C",
 							"patch": "4A2FBB5742D9BC408550B77339D1FA299057C4D2C4E8AD40F1D55201D3C63EAD"
 						}
 					}
