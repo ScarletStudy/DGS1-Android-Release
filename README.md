@@ -15,13 +15,24 @@ For the instruction of how to apply the Android patch and general information ab
 
 ### Current Status of the Fan Translation
 
-* Translated up to and including **Episode 4**.
-* A small **preview of Episode 5** is included as well.
+**Translated up to and including Episode 5, complete translation.**
+
+* A fully translated script, complete with all UI stuff and credits in English.
+* A vast rewrite of episodes 1 and 2, with the number of ellipses cut down hard.
+* Some miscellaneous fixes throughout the game.
 
 ---
 
 # Changelog
 A list of changes to the patched DGS1 and **not** IrisMobile.
+
+## 2.4.0 - 2019-04-03
+
+**Translated up to and including Episode 5, complete translation.**
+
+* A fully translated script, complete with all UI stuff and credits in English.
+* A vast rewrite of episodes 1 and 2, with the number of ellipses cut down hard.
+* Some miscellaneous fixes throughout the game.
 
 ## 2.3.1.1 - 2018-10-09
 
