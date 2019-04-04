@@ -1,6 +1,6 @@
 {
 	"ManifestVersion": 0,
-	"Date": "2018.09.15",
+	"Date": "2019.04.04",
 	"IrisMobile": {
 		"CurrentVersion": 6,
 		"URL": "https://github.com/ScarletStudy/DGS1-Android-Release/releases/download/1.0/IrisMobile.apk",
@@ -13,7 +13,7 @@
 			"<a href=\"https://en.wikipedia.org/wiki/Natsume_S%C5%8Dseki\"><b>Souseki Natsume</b></a> is a real-life Japanese author who spent two years studying in London, having been sent there by the government in 1900 with the intention of making him \"Japan’s first Japanese English literary scholar\". He is the first historical figure to appear in any Ace Attorney game, though the game obviously takes some artistic license with his biography and character.",
 			"Natsume’s cat, <b>Wagahai</b>, is a reference to one of his most notable works <i>Wagahai wa Neko de Aru</i> (<a href=\"https://en.wikipedia.org/wiki/I_Am_a_Cat\">I Am a Cat</a>), a satirical novel about the influx of western culture into <a href=\"https://en.wikipedia.org/wiki/Meiji_period\">Meiji-era</a> Japan. Incidentally, the pronoun <i>Wagahai</i> (<a href=\"https://jisho.org/word/%E6%88%91%E8%BC%A9\">我輩</a>) is a pompous way of referring to one's self - quite befitting of a cat."
 		],
-		"Episode 1": [
+		"Episode 1-1": [
 			"<b>Ryuunosuke Naruhodou</b> is heavily implied to be Phoenix Wright's ancestor (very similar name and appearance.)",
 			"<b>Taketsuchi Auchi</b> is heavily implied to be Winston Payne's ancestor (same last name and appearance.)",
 			"Auchi's <b>fan</b> has the Kanji <a href=\"https://jisho.org/search/%E7%BD%AA\">罪</a> on it. It means sin; crime; punishment; etc.",
@@ -22,17 +22,17 @@
 			"<a href=\"https://en.wikipedia.org/wiki/Koban_(coin)\"><b>Koban</b></a> are golden, oval-shaped coins used as currency starting from the 16th century until the <a href=\"https://en.wikipedia.org/wiki/Meiji_Restoration\">Meiji Restoration</a> in the mid-19th century.",
 			"When Naruhodou mentions that the word <b>Kitchen</b> is hard to write, it is because the Japanese equivalent of the word is <a href=\"https://jisho.org/search/%E5%8E%A8%E6%88%BF\">厨房</a>, which contains complicated characters."
 		],
-		"Episode 2": [
+		"Episode 1-2": [
 			"The <b>Russian</b> characters in this episode speak with various degrees of a Russian accent in our translation. We consulted native Russian speakers in an effort to make it realistic.",
 			"In the original Japanese, the characters of different nationalities are all stated to be using <b>English</b> as a common language. Distinctions are made between Japanese, English, and Russian.",
 			"In particular, the <b>アケルナ</b> (Do Not Open) sign is strongly intended to be foreign writing to the non-Japanese cast, and context makes its meaning clear. As such, it was left untranslated.",
-			"The ship's name, <b>Alclair</b>, is just one of several possible romanizations of アラクレ. It's certainly a reference to <a href=\"https://jisho.org/search/%E8%8D%92%E3%81%8F%E3%82%8C\">荒くれ</a>, which means rowdy; wild; violent.",
+			"The ship's name, <b>Alclair</b>, is just one of several possible romanizations of アラクレイ. It's certainly a reference to <a href=\"https://jisho.org/search/%E8%8D%92%E3%81%8F%E3%82%8C\">荒くれ</a>, which means rowdy; wild; violent.",
 			"<a href=\"https://en.wikipedia.org/wiki/%C5%8Cban\"><b>Ōban</b></a> are old coins, similar to koban; they are worth ten koban.",
 			"<b>Harakiri</b> (<a href=\"https://jisho.org/search/%E8%85%B9%E5%88%87\">腹切</a>) is the reverse reading of <a href=\"https://en.wikipedia.org/wiki/Seppuku\">Seppuku</a> (<a href=\"https://jisho.org/search/%E5%88%87%E8%85%B9\">切腹</a>), a form of Japanese ritual suicide by disembowelment.",
 			"The cat's name was originally <b>Kuroppoi</b>, which means \"blackish\" - however, as its owner does not know Japanese, this name was localized. It is, to date, the only character with a localized name in our translation.",
 			"Asougi's <a href=\"https://en.wikipedia.org/wiki/Katana\">blade</a>, <b>Karma</b>, shares its original name with the Von Karmas (<a href=\"https://jisho.org/search/%E7%8B%A9%E9%AD%94\">狩魔</a>)."
 		],
-		"Episode 3": [
+		"Episode 1-3": [
 			"When you examine the omnibus, you can see the words <b>Phoenix Wright Omnibus</b>. This nod to the English localization of the main series already existed in the original Japanese version of DGS and was not added or edited by us.",
 			"The name <b>Ladyfirst</b> could also be read as \"Redifast.\" Looking at his friend Fairplay’s name, it is clear that their names are both meant to be gentlemanly English names; thus, Ladyfirst was chosen. We were able to confirm these romanizations in the game assets.",
 			"<b>Lord Chief Justice</b> is an actual judiciary title, and quite a prestigious one – it is held by the head judge of the Courts of England and Wales.",
@@ -41,39 +41,76 @@
 			"The name embroidered on Asougi's <b>Armband</b> is intentionally left in its original language because he is Japanese - it wouldn't make sense for it to be in English.",
 			"<b>Milord</b> and the <b>Crown Court</b> are British terms related to the Old Bailey. Instead of Your Honour, Judges at the Old Bailey are referred to as My Lord, with Milord reflecting the traditional pronunciation. The Crown Court is a court in the Old Bailey, used as the highest court of first instance for criminal cases."
 		],
-		"Episode 4": [
+		"Episode 1-4": [
 			"<a href=\"https://en.wikipedia.org/wiki/Tisane\"><b>Tisane</b></a> is a herbal tea or medical infusion, often made from barley.",
-			"The names of the streets on the map are references to pipes used for smoking."
+			"The names of the streets on the map are references to <a href=\"https://en.wikipedia.org/wiki/Tobacco_pipe#Typology\"><b>pipes</b></a> used for smoking."
+		],
+		"Episode 1-5": [
+			"The <b>shell to the knee</b> thing was honestly in the original Japanese. It’s a lucky coincidence that it works with the meme, though.",
+			"Holmes, Gina, and the Tinpillars call Hatch <b>uncle</b>. This is an old term for a pawnbroker, which happened to just perfectly fit with the Japanese おじさん (ojisan), ironically."
+		],
+		"British Dialect": [
+			"<b>Anyroad/Any road</b> – anyway",
+			"<b>barmy</b> – insane",
+			"<b>barney, to have one</b> – Totally ridiculous",
+			"<b>Blew em off</b> – audabley or physically chased someone away",
+			"<b>bloke(s)</b> – guy, person, people, usually but not always male",
+			"<b>bob cryer</b> – liar",
+			"<b>Bugger</b> – a not-so-offensive way of calling someone a bastard",
+			"<b>Bugger off</b> – Go away/Leave me alone!",
+			"<b>din/dinlo</b> – stupid, thick, slow",
+			"<b>Divvy</b> – Stupid looking",
+			"<b>flogged</b> – sell",
+			"<b>fob off</b> – a less mean way to say “fuck off”",
+			"<b>geezer</b> – similar to bloke, but usually older",
+			"<b>gormless</b> – stupid looking",
+			"<b>half-inch</b> – Pinch, steal",
+			"<b>lid</b> – mouth",
+			"<b>Lost/lose the plot</b> – To act in a disorganized, chaotic, or irrational manner",
+			"<b>lugged</b> – dragged",
+			"<b>Majesty’s finest</b> – prison, cell",
+			"<b>Maltooler</b> – Someone who steals from or on an omnibus (how convenient)",
+			"<b>mug</b> – face, to look a right mug is to look pretty stupid",
+			"<b>nick</b> – also steal",
+			"<b>Off one’s trolly</b> – Are you nuts?",
+			"<b>Pete’s sake</b> – goodness sake",
+			"<b>ponce</b> – sham, a fancy elitist, stupid",
+			"<b>taking the mick(ey)</b> – to take liberties at the expense of others, or to be joking, or to be unreasonable",
+			"<b>tart</b> – a mean or hot headed person",
+			"<b>tea leaf</b> – thief",
+			"<b>tickety-boo</b> – everything is all nice and good and proper",
+			"<b>Tom, Dick and Harry</b> – anyone",
+			"<b>wicked</b> – Really cool or really bad, context"
 		]
 	},
 	"Games": {
 		"DGS1": {
 			"Package": "jp.co.capcom.daigyakusai",
-			"PatchVersion": "2.3.1.1",
+			"PatchVersion": "2.4.0",
 			"LatestPatchableAPK": 14,
 			"LatestVersionOBB": 11,
 			"RequiredSize": 1000,
 			"Patches": {
 				"APK": {
-					"Version": 3,
-					"URL": "https://raw.githubusercontent.com/ScarletStudy/DGS1-Android-Release/master/apk_patch",
-					"Hash": "E12A25C847C31FAF24648A2F70A9A629DA31FB7E610F95EC171001CDD1947549",
-                    "Iter": 2107567964,
+					"Version": 4,
+					"URL": "https://github.com/ScarletStudy/DGS1-Android-Release/releases/download/2.4.0/apk_patch",
+					"Hash": "DD2E314FA2AB73F64431EBE15CD62AC6434287C501FA70F8B0354181A4AFA417",
+                    "Iter": 3706899540,
                     "Size": 6
 				},
 				"Main": {
-					"Version": 3,
-					"URL": "https://raw.githubusercontent.com/ScarletStudy/DGS1-Android-Release/master/patch",
-					"Hash": "0D14444F2D9E229B9908C86AB831159F04457C3E0F8FD665EF0FCD86C1BA251C",
-                    "Iter": 2107567965,
+					"Version": 4,
+					"URL": "https://github.com/ScarletStudy/DGS1-Android-Release/releases/download/2.4.0/patch",
+					"Hash": "A0F502F30C9AEE41C8D1FA3639A84501CAD909909E2DFA7620BC5D069D7C00AF",
+                    "Iter": 3706899541,
                     "Size": 40
 				},
 				"Video": {
-					"Version": 0,
-					"URL": "https://raw.githubusercontent.com/ScarletStudy/DGS1-Android-Release/master/vid_patch",
-					"Hash": "799E61A8C418AC846ED3E232E1EC5C3794CAC5F4CB3BCAEDA58FE5CA059D9917",
-                    "Iter": 2107567966,
-                    "Size": 60
+					"Version": 4,
+					"URL": "https://github.com/ScarletStudy/DGS1-Android-Release/releases/download/2.4.0/vid_patch",
+					"Hash": "B576B9C6B57BDC1D554727E59DBB7B0E866C1FC35E68C0C1DFE756D2D972A854",
+                    "Iter": 3706899542,
+                    "Size": 200
 				}
 			},
 			"Hashes": {
@@ -94,11 +131,11 @@
 					}
 				},
 				"Patched": {
-					"2.3.1.1": {
-						"APK": "EEAEFB13275398959250D3B0986F72FEAE56F5C7F817F8BB3053A5700621404A",
+					"2.4.0": {
+						"APK": "75F87EBD5E27C585FBCF18E38D81213CB89D721759433B58BD1ED636F4F43112",
 						"OBB": {
-							"main": "1EFDFC0BE34EE036D2E6EE2CF8B0499D9E1E55FAC376B4987C178A30FE76E40C",
-							"patch": "4A2FBB5742D9BC408550B77339D1FA299057C4D2C4E8AD40F1D55201D3C63EAD"
+							"main": "FCA871FD3F333CFAC2355C552FD31522C53DFDCD2B3AAFA3197A78E6B62428BB",
+							"patch": "90B446D55C9F8F1A424E1905A471E834E89B696D8B2C7EAD3A40F07ACEC6BDA5"
 						}
 					}
 				}
