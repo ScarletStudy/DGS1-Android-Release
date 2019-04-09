@@ -3,6 +3,12 @@ A list of changes to the patched DGS1 and **not** IrisMobile.
 
 ---
 
+## 2.4.0.1 - 2019-04-10
+
+**Translated up to and including Episode 5, complete translation.**
+
+* Small fix for a video issue in Episode 5 that would crash the game in a black screen.
+
 ## 2.4.0 - 2019-04-03
 
 **Translated up to and including Episode 5, complete translation.**

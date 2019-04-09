@@ -1,6 +1,6 @@
 {
 	"ManifestVersion": 0,
-	"Date": "2019.04.04",
+	"Date": "2019.04.10",
 	"IrisMobile": {
 		"CurrentVersion": 6,
 		"URL": "https://github.com/ScarletStudy/DGS1-Android-Release/releases/download/1.0/IrisMobile.apk",
@@ -86,29 +86,29 @@
 	"Games": {
 		"DGS1": {
 			"Package": "jp.co.capcom.daigyakusai",
-			"PatchVersion": "2.4.0",
+			"PatchVersion": "2.4.0.1",
 			"LatestPatchableAPK": 14,
 			"LatestVersionOBB": 11,
 			"RequiredSize": 1000,
 			"Patches": {
 				"APK": {
-					"Version": 4,
+					"Version": 5,
 					"URL": "https://github.com/ScarletStudy/DGS1-Android-Release/releases/download/2.4.0/apk_patch",
 					"Hash": "DD2E314FA2AB73F64431EBE15CD62AC6434287C501FA70F8B0354181A4AFA417",
                     "Iter": 3706899540,
                     "Size": 6
 				},
 				"Main": {
-					"Version": 4,
+					"Version": 5,
 					"URL": "https://github.com/ScarletStudy/DGS1-Android-Release/releases/download/2.4.0/patch",
 					"Hash": "A0F502F30C9AEE41C8D1FA3639A84501CAD909909E2DFA7620BC5D069D7C00AF",
                     "Iter": 3706899541,
                     "Size": 40
 				},
 				"Video": {
-					"Version": 4,
+					"Version": 5,
 					"URL": "https://github.com/ScarletStudy/DGS1-Android-Release/releases/download/2.4.0/vid_patch",
-					"Hash": "B576B9C6B57BDC1D554727E59DBB7B0E866C1FC35E68C0C1DFE756D2D972A854",
+					"Hash": "D713CBE7FBF8DFEF3A1AC03FF4D42805849681A3841D8CE184524C0B69266008",
                     "Iter": 3706899542,
                     "Size": 200
 				}
@@ -131,7 +131,7 @@
 					}
 				},
 				"Patched": {
-					"2.4.0": {
+					"2.4.0.1": {
 						"APK": "75F87EBD5E27C585FBCF18E38D81213CB89D721759433B58BD1ED636F4F43112",
 						"OBB": {
 							"main": "FCA871FD3F333CFAC2355C552FD31522C53DFDCD2B3AAFA3197A78E6B62428BB",
