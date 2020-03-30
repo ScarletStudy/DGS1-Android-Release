@@ -1,6 +1,6 @@
 ---
 name: Typo or Grammar
-about: Before you report any issue with the script, please read https://github.com/ScarletStudy/DGS1-Android-Release/issues/81
+about: Before you report any issue with the script, please read (https://github.com/ScarletStudy/DGS1-Android-Release/issues/81)
 title: ''
 labels: script
 assignees: ''
